@@ -2,7 +2,10 @@
 # Raspberry Pi Pico python code to read and display orientation 
 
 The four python modules are classes used to access the Waveshare MPU and
-OLED display.   
+OLED display.
+<a href="https://www.waveshare.com/wiki/Pico-10DOF-IMU"> 
+<img src="" width=200 
+alt="Waveshare MPU evaluation Set" align="right"></a>
 
 The 4 python modules are:
 ### 1. PicoMain.py
